@@ -213,7 +213,7 @@ header ul li a { display: block; margin: 0 30px; color: #4d4959; }
 .nopadding { padding: 0 !important; margin: 0 !important; }
 .thin-sep { height: 1px; background-color: #d7d7d7; width: 50px; margin: 8% auto 0 auto; }
 .small-featured-img { height: 200px; width: 100%; position: absolute; bottom: 0; }
-.small-featured-img2 { height: 130px; width: 100%; background-size: cover; background-position: top; background-repeat: no-repeat; position: absolute; bottom: 0; }
+.small-featured-img2 { height: 130px; width: 100%; background-size: cover; background-position: top; background-repeat: no-repeat; position: absolute; bottom: 0;  background-size: cover; background-position: center top; background-repeat: no-repeat; overflow: hidden;}
 .seat-red { background: url(../img/seat-red.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
 .seat-black { background: url(../img/seat-black.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
 .frame-red { background: url(../img/chrome-wheels.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
